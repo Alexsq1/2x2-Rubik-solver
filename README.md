@@ -3,7 +3,7 @@ Solver of a 2x2 in Java. Made in spanish in 1st-2nd course. Uses (strange) BFS w
 
 ## How to use:
 - Insert the scramble in Cubo.java
-- $ java Main
+- $ java Main.java
 
 ## TODO:
 - Improve the input
